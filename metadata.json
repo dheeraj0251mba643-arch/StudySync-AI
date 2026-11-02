@@ -1,0 +1,6 @@
+{
+  "name": "StudySync AI",
+  "description": "High-yield active-recall platform and self-service exam sprint booking for 2nd and 3rd year Pre-Med students taking Organic Chemistry and Human Anatomy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
